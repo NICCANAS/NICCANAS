@@ -1,4 +1,4 @@
-<a href="https://media.tenor.com/C-qhIiM38ooAAAAC/simpsons-homer.gif"><img align="left" width="320" height="480" src="https://media.tenor.com/C-qhIiM38ooAAAAC/simpsons-homer.gif"></a>
+<a href="https://i.kym-cdn.com/photos/images/original/001/018/871/d19.gif"><img align="left" width="640" height="480" src="https://i.kym-cdn.com/photos/images/original/001/018/871/d19.gif"></a>
 <!--
 **NICCANAS/NICCANAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
